@@ -11,7 +11,7 @@
  5. We will try to create and compare models to better predict the target variable.
 
 
-## Data Analysis
+## Data Analysis and Modelling
 
  1. We see that there is not missing/null values and so we don’t need to fill any values.
  2. We have 3 continuous columns in last and rest categorical columns except competitorname.
